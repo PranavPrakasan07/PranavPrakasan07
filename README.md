@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PranavPrakasan07/PranavPrakasan07/blob/master/code.gif"><img align="right" height="250" width="300" alt="GIF" src="https://github.com/PranavPrakasan07/PranavPrakasan07/blob/master/code.gif" data-canonical-src="https://github.com/PranavPrakasan07/PranavPrakasan07/blob/master/code.gif" style="max-width:100%; "></a>
-<br/>
+
 
 - 🔭 I’m currently working on **Android Apps**
 - 🌱 I’m currently learning **Unity**
@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/PranavPrakasan07" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/PranavPrakasan07?label=PranavPrakasan07&style=social">
 </p>
-
+<br/>
 
 **LANGUAGES AND TOOLS:**  
 <br/><br/>

@@ -5,10 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-<p align="center">
-  <img src="https://github.com/PranavPrakasan07/PranavPrakasan07/blob/master/code.gif">
-</p>
-
 - 🔭 I’m currently working on **Android Apps**
 - 🌱 I’m currently learning **Unity**
 - 👯 I’m looking to collaborate on **Android App-Dev Projects**
@@ -20,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/PranavPrakasan07/PranavPrakasan07/blob/master/code.gif">
+</p>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/PranavPrakasan07" alt="profile views"> •  

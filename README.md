@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on **Native App Development**
+<h3>🔭 I’m currently working on <b>Native App Development</b></h3>
 
-🌱 I’m currently learning **Unity**
+<h3>🌱 I’m currently learning <b>Unity</b></h3>
 
-👯 I’m looking to collaborate on **App/Game Dev/ML Projects**
+<h3>👯 I’m looking to collaborate on <b>App/Game Dev/ML Projects</b></h3>
 
-🤔 I’m looking for help with **ML in App-Dev**
+<h3>🤔 I’m looking for help with <b>ML in App-Dev</b></h3>
 
-💬 Ask me about **Native App Development, UI/UX Designing**
+<h3>💬 Ask me about <b>Native App Development, UI/UX Designing</b></h3>
 
 </div>
 
@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 <br>
 <h2>FIND ME AT</h2>
 
-<a href="www.linkedin.com/in/pranav-prakasan-" target="blank"><img align="center" src="icons/linkedin.png" alt="Pranav Prakasan" height="50" width="50" /></a> ⁃ 
+<a href="https://www.linkedin.com/in/pranav-prakasan-" target="blank"><img align="center" src="icons/linkedin.png" alt="Pranav Prakasan" height="50" width="50" /></a> ⁃ 
 <a href="https://www.instagram.com/prakasan_pranav/" target="blank"><img align="center" src="icons/instagram.png" alt="Pranav Prakasan" height="50" width="50" /></a> ⁃ 
-<a href="https://www.figma.com/@pranavprakasan" target="blank"><img align="center" src="icons/fc.png" alt="Pranav Prakasan" height="50" width="50" /></a>
+<a href="https://www.figma.com/@pranavprakasan" target="blank"><img align="center" src="icons/fc.png" alt="Pranav Prakasan" height="50" width="50" /></a> ⁃ 
+<a href="https://bit.ly/pranav_prakasan" target="blank"><img align="center" src="icons/user.png" alt="Pranav Prakasan" height="50" width="50" /></a>
 </div>
 
 <br>
